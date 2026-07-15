@@ -15,3 +15,11 @@ I am an **AI Agent Developer** and **Full-Stack Software Engineer** dedicated to
 
 ---
 📫 **How to reach me:** [erenburakkayaer@gmail.com](mailto:erenburakkayaer@gmail.com)
+
+### 🛠 Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenburakkayaer&show_icons=true&theme=radical)
